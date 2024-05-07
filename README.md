@@ -14,7 +14,7 @@ During my internship as a trainee electronics engineer at Vega Innovation (Ltd),
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chinthaka99&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&icons=true&theme=dark)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chinthaka99&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
