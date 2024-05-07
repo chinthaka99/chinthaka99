@@ -10,6 +10,8 @@ During my internship as a trainee electronics engineer at Vega Innovation (Ltd),
 📱 React Native /  Flutter  
 💻 HTML / CSS / JS  
 
+## GitHub Stats
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chinthaka99&show_icons=true&theme=dark)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chinthaka99&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&icons=true&theme=dark)
