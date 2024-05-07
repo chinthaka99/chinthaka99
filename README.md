@@ -1,5 +1,5 @@
-# Hi there 👋, I'm Chinthaka Abeyrathne
-#### B.Sc.(Hons) Engineering in Electrical and Information Engineering
+## Hi there 👋, I'm Chinthaka Abeyrathne
+### B.Sc.(Hons) Engineering in Electrical and Information Engineering
 
 I am Chinthaka Abeyrathne from Sri Lanka, currently pursuing my B.Sc. (Hons) in Engineering, specializing in Electrical and Information Engineering at the Faculty of Engineering, University of Ruhuna. I have a passion for self-directed learning and continually seek to expand my knowledge base.
 
