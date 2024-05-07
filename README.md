@@ -1,6 +1,6 @@
 ### Hi there 👋, Chinthaka Abeyrathne
 #### B.Sc.(Hons) Engineering in Electrical and Information Engineering
-![B.Sc.(Hons) Engineering in Electrical and Information Engineering](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![B.Sc.(Hons) Engineering in Electrical and Information Engineering]
 
 I am Chinthaka Abeyrathne from Sri Lanka, currently pursuing my B.Sc. (Hons) in Engineering, specializing in Electrical and Information Engineering at the Faculty of Engineering, University of Ruhuna. I have a passion for self-directed learning and continually seek to expand my knowledge base.
 
