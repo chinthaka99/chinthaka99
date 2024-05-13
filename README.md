@@ -9,6 +9,8 @@ During my internship as a trainee electronics engineer at Vega Innovation (Ltd),
 ⚛️ REACT  
 📱 React Native /  Flutter  
 💻 HTML / CSS / JS  
+🔥 JAVA 
+🐍 Python
 
 ## GitHub Stats
 
