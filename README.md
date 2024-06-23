@@ -1,8 +1,7 @@
 ## Hi there 👋, I'm Chinthaka Abeyrathne
 ### B.Sc.(Hons) Engineering in Electrical and Information Engineering
 
-I am Chinthaka Abeyrathne from Sri Lanka, currently pursuing my B.Sc. (Hons) in Engineering, specializing in Electrical and Information Engineering at the Faculty of Engineering, University of Ruhuna. 
-
+Motivated Engineering undergraduate with a strong foundation in Artificial Intelligence and Machine Learning. Proficient in machine learning algorithms, AI techniques, and software development. Possess excellent leadership and communication skills, and adept at applying theoretical knowledge to real-world problems. Seeking to apply my skills and passion to make a meaningful impact in a dynamic and innovative environment.
 
 ## Skills
 ⚛️ REACT  
