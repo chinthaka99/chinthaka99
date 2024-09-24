@@ -6,6 +6,10 @@ Motivated Software Engineering undergraduate with expertise in software developm
 ### Skills
 <li><b>Programming Languages: </b> C++, C, C#, Python, Java, JavaScript, Dart</li>
 <li><b>Web Development: </b> HTML, CSS, Tailwind CSS, React,  WordPress, Bootstrap, MVC, Node.js, Express.js</li>
+<li><b>Database: </b> MongoDB, MySQL</li>
+<li><b>Frameworks: </b>  Flutter, Tensorflow, Keras</li>
+<li><b>Machine Learning Tools: </b> Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn, OpenCV, Jupyter
+ Notebooks</li>
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
