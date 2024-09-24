@@ -4,7 +4,8 @@
 Motivated Software Engineering undergraduate with expertise in software development and Machine Learning. Skilled in full-stack development, mobile apps, and embedded systems, with strong leadership, problem-solving, and communication abilities. Passionate about applying technical knowledge to create innovative solutions and eager to contribute to impactful projects in software engineering and AI/ML
 
 ### Skills
-<li><b>Web Development</b>: HTML, CSS, Tailwind CSS, React,  WordPress, Bootstrap, MVC, Node.js, Express.js</li>
+<li><b>Programming Languages: </b> C++, C, C#, Python, Java, JavaScript, Dart</li>
+<li><b>Web Development: </b> HTML, CSS, Tailwind CSS, React,  WordPress, Bootstrap, MVC, Node.js, Express.js</li>
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
