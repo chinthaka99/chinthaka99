@@ -4,9 +4,7 @@
 Motivated Engineering undergraduate with a strong foundation in Artificial Intelligence and Machine Learning. Proficient in machine learning algorithms, AI techniques, and software development. Possess excellent leadership and communication skills, and adept at applying theoretical knowledge to real-world problems. Seeking to apply my skills and passion to make a meaningful impact in a dynamic and innovative environment.
 
 ### Skills
-<li>HTML</li>
-  CSS, Tailwind CSS, React,  WordPress, Bootstrap, MVC, Node.js
- Express.js 
+<li><span>Web Development</span>: HTML, CSS, Tailwind CSS, React,  WordPress, Bootstrap, MVC, Node.js, Express.js</li>
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
