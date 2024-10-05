@@ -23,7 +23,7 @@ Motivated Software Engineering undergraduate with expertise in software developm
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook - Chinthaka Abeyrathne" height="30" width="40" />
 </a>
 <a href="hinthaka99.info" target="blank">
-  <img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/globe.svg](https://img.icons8.com/ios-filled/50/000000/internet--v1.png)" alt="Personal Website" height="30" width="40" />
+  <img align="center" src="https://img.icons8.com/ios-filled/50/000000/internet--v1.png" alt="Personal Website" height="30" width="40" />
 </a>
 
 
